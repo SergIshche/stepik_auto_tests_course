@@ -1,2 +1,2 @@
-Git + python + selenium
+Git + python + selenium.
 
