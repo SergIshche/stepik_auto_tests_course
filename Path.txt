@@ -1,0 +1,1 @@
+python c:\Users\SERG\selenium_course\lesson6_step4.py
