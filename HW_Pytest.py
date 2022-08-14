@@ -16,7 +16,7 @@ from selenium import webdriver
 
 @pytest.mark.parametrize('number', ["236895", "236896", "236897", "236898", "236899", "236903", "236904", "236905"])
 def test_guest_should_see_login_link(browser, number):
-    global result
+    #global result
     link = f"https://stepik.org/lesson/{number}/step/1/"
     browser.implicitly_wait(10)
     browser.get(link)
